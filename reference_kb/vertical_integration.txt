@@ -1,0 +1,7 @@
+Vertical Integration
+
+Vertical integration is an arrangement in which the supply chain of a company is integrated and owned by that company. Usually each member of the supply chain produces a different product or market-specific service, and the products combine to satisfy a common need. When a company expands its business into areas that are at different points on the same production path, it is said to be vertically integrated.
+
+Backward integration involves acquiring or controlling suppliers of raw materials and components, while forward integration moves toward distribution and the end customer. A company pursuing backward integration buys or builds the capability to produce its own inputs; a company pursuing forward integration takes over activities closer to the final consumer, such as distribution, retail, or after-sales service.
+
+Economists and strategists debate the merits of vertical integration. Ownership can reduce transaction costs, secure critical inputs, and capture margins along the chain. It can also raise capital requirements, reduce flexibility, and expose the firm to swings in demand that a diversified supplier could have absorbed. Modern treatments therefore weigh integration against long-term contracts, minority stakes, and platform partnerships as alternative governance structures.

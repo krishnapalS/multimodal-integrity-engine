@@ -1,0 +1,7 @@
+Market Entry Strategy
+
+A market entry strategy is the planned method of delivering goods or services to a new target market and distributing them there. Common modes include direct export, licensing, franchising, joint ventures, wholly owned subsidiaries, and acquisition. The choice trades control against speed, capital, and local knowledge.
+
+Analysts typically evaluate market attractiveness through total addressable demand, competitive intensity, regulatory barriers, and cultural distance. Entry sequencing then balances the learning value of early, small commitments against the pre-emption risk of moving slowly. Waterfall strategies enter one market at a time; sprinkler strategies enter many simultaneously and accept thinner execution.
+
+Post-entry, the dominant causes of failure are misreading local consumer preferences, underestimating incumbent response, and scaling fixed costs before product-market fit is confirmed. Staged commitments with explicit abandonment criteria limit the cost of being wrong.

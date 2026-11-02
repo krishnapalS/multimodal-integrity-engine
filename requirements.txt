@@ -1,0 +1,12 @@
+# Multimodal Submission Integrity & Plagiarism Detection Engine
+# Tested on Python 3.10, CPU-only. Install: pip install -r requirements.txt
+
+pymupdf>=1.24            # PDF text extraction with page metadata
+python-docx>=1.1         # DOCX extraction
+faster-whisper>=1.0      # open-source Whisper ASR (openai/whisper-tiny weights)
+ffmpeg-python>=0.2       # ffmpeg presence is required: apt install ffmpeg
+sentence-transformers>=2.7  # all-MiniLM-L6-v2 embeddings
+faiss-cpu>=1.8           # vector index
+transformers>=4.40       # roberta-base-openai-detector (AI-content signal)
+torch>=2.2               # CPU inference backend for the models above
+numpy>=1.26

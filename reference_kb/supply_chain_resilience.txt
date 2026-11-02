@@ -1,0 +1,7 @@
+Supply Chain Resilience
+
+Supply chain resilience is the capacity of a supply network to anticipate, absorb, and recover from disruption while continuing to deliver products and services. Disruptions range from natural disasters and port closures to demand shocks and supplier insolvency. Resilient networks combine redundancy, visibility, and flexibility rather than relying on any single mechanism.
+
+Common strategies include multi-sourcing critical components, holding strategic buffer inventory for long-lead items, nearshoring production to shorten exposure, and investing in control-tower visibility so deviations are detected early. Each strategy trades carrying cost against the expected cost of interruption.
+
+Measurement typically uses time-to-survive and time-to-recover: how long the network can operate after a node fails, and how long restoration takes. Firms that quantify both can price resilience investments instead of treating them as insurance overhead.

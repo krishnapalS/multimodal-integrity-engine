@@ -1,0 +1,7 @@
+Dynamic Pricing
+
+Dynamic pricing is a strategy in which businesses set flexible prices for products or services based on current market demands. Prices adjust in response to competitor pricing, supply levels, time of day, customer segment, and other measured variables. Airlines and hotels popularized the practice through revenue management systems that reprice inventory continuously.
+
+The practice depends on demand elasticity estimates. When demand is inelastic at a given moment, raising price raises revenue; when elastic, discounts stimulate volume. Modern systems estimate elasticity from historical transaction data and controlled experiments, then optimize prices subject to business constraints such as price floors, fairness rules, and regulatory limits.
+
+Critics raise fairness and transparency concerns, particularly when personalized pricing charges different customers different amounts for identical goods. Several jurisdictions require disclosure of surge mechanisms, and consumer backlash has forced companies to cap multiplier ranges during emergencies.
